@@ -5,7 +5,7 @@ la Universidad de Sevilla).
 Los temas publicados hasta ahora son 
 + [[https://github.com/jaalonso/Temas_interactivos_de_PF_con_Haskell/blob/master/temas/Tema-1.ipynb][Tema 1: Introducción a la programación funcional]].
 
-Sus versiones interactivas se encuentran [[https://mybinder.org/v2/gh/jaalonso/Temas_interactivos_de_PF_con_Haskell/master?urlpath=lab/tree/temas/Indice.ipynb][aquí]].
+Sus versiones interactivas se encuentran [[https://hub.gke.mybinder.org/user/jaalonso-temas_-_pf_con_haskell-g08ez2zx/lab/tree/temas/Indice.ipynb][aquí]].
 
 La adaptación se basado en [[https://github.com/jamesdbrock/learn-you-a-haskell-notebook][Jupyter adaptation of "Learn You a Haskell for Great
 Good!"]] de James Brock.
