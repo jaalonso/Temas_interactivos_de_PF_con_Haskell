@@ -1,5 +1,9 @@
-Una adaptación de los temas de I1M a libretas interactivas de Jupyter Lab basada
-en [[https://github.com/jamesdbrock/learn-you-a-haskell-notebook][Jupyter adaptation of "Learn You a Haskell for Great Good!"]].
+Este repositorio contiene una versión de los temas de programación funcional con
+Haskell de la asignatura de [[https://www.cs.us.es/~jalonso/cursos/i1m/temas.php][I1M]] (/Informática de 1º del Grado en Matemáticas de
+la Universidad de Sevilla).
+
+La adaptación se basa [[https://github.com/jamesdbrock/learn-you-a-haskell-notebook][Jupyter adaptation of "Learn You a Haskell for Great
+Good!"]] de James Brock.
 
 Las libretas se encuentran [[https://mybinder.org/v2/gh/jaalonso/temas-ipynb/master?urlpath=lab/tree/temas-i1m/Tema-1.ipynb][aquí]].
-
+https://mybinder.org/v2/gh/jaalonso/temas-ipynb/master?urlpath=lab/tree/temas-i1m/Tema-1.ipynb
