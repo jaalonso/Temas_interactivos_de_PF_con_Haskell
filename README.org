@@ -5,5 +5,6 @@ la Universidad de Sevilla).
 La adaptación se basa [[https://github.com/jamesdbrock/learn-you-a-haskell-notebook][Jupyter adaptation of "Learn You a Haskell for Great
 Good!"]] de James Brock.
 
-Las libretas se encuentran [[https://mybinder.org/v2/gh/jaalonso/temas-ipynb/master?urlpath=lab/tree/temas-i1m/Tema-1.ipynb][aquí]].
-https://mybinder.org/v2/gh/jaalonso/temas-ipynb/master?urlpath=lab/tree/temas-i1m/Tema-1.ipynb
+Los temas interactivos publicados hasta ahora son 
++ [[https://mybinder.org/v2/gh/jaalonso/Temas_interactivos_de_PF_con_Haskell/master?urlpath=lab/tree/temas/Tema-1.ipynb][Tema 1: Introducción a la programación funcional]]. 
+
