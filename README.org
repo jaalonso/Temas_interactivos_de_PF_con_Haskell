@@ -1,10 +1,13 @@
 Este repositorio contiene una versión de los temas de programación funcional con
-Haskell de la asignatura de [[https://www.cs.us.es/~jalonso/cursos/i1m/temas.php][I1M]] (/Informática de 1º del Grado en Matemáticas de
+Haskell de la asignatura de [[https://www.cs.us.es/~jalonso/cursos/i1m/temas.php][I1M]] (/Informática de 1º del Grado en Matemáticas/ de
 la Universidad de Sevilla).
 
-La adaptación se basa [[https://github.com/jamesdbrock/learn-you-a-haskell-notebook][Jupyter adaptation of "Learn You a Haskell for Great
+Los temas publicados hasta ahora son 
++ [[https://github.com/jaalonso/Temas_interactivos_de_PF_con_Haskell/blob/master/temas/Tema-1.ipynb][Tema 1: Introducción a la programación funcional]].
+
+Sus versiones interactivas se encuentran [[https://mybinder.org/v2/gh/jaalonso/Temas_interactivos_de_PF_con_Haskell/master?urlpath=lab/tree/temas/Indice.ipynb][aquí]].
+
+La adaptación se basado en [[https://github.com/jamesdbrock/learn-you-a-haskell-notebook][Jupyter adaptation of "Learn You a Haskell for Great
 Good!"]] de James Brock.
 
-Los temas interactivos publicados hasta ahora son 
-+ [[https://mybinder.org/v2/gh/jaalonso/Temas_interactivos_de_PF_con_Haskell/master?urlpath=lab/tree/temas/Tema-1.ipynb][Tema 1: Introducción a la programación funcional]]. 
 
