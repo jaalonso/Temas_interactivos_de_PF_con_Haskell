@@ -4,7 +4,7 @@ la Universidad de Sevilla).
 
 Los temas publicados hasta ahora son 
 + [[https://github.com/jaalonso/Temas_interactivos_de_PF_con_Haskell/blob/master/temas/Tema-01.ipynb][Tema 1: Introducción a la programación funcional]].
-+ [[https://github.com/jaalonso/Temas_interactivos_de_PF_con_Haskell/blob/master/temas/Tema-01.ipynb][Tema 2: Introducción a la programación con Haskell]].
++ [[https://github.com/jaalonso/Temas_interactivos_de_PF_con_Haskell/blob/master/temas/Tema-02.ipynb][Tema 2: Introducción a la programación con Haskell]].
 
 Sus versiones interactivas se encuentran [[https://mybinder.org/v2/gh/jaalonso/Temas_interactivos_de_PF_con_Haskell/master?urlpath=lab/tree/temas/Indice.ipynb][aquí]].
 
