@@ -10,6 +10,7 @@ Los temas publicados hasta ahora son
 + [[https://github.com/jaalonso/Temas_interactivos_de_PF_con_Haskell/blob/master/temas/Tema-05.ipynb][Tema 5: Definiciones de listas por comprensión]].
 + [[https://github.com/jaalonso/Temas_interactivos_de_PF_con_Haskell/blob/master/temas/Tema-06.ipynb][Tema 6: Funciones recursivas]].
 + [[https://github.com/jaalonso/Temas_interactivos_de_PF_con_Haskell/blob/master/temas/Tema-07.ipynb][Tema 7: Funciones de orden superior]].
++ [[https://github.com/jaalonso/Temas_interactivos_de_PF_con_Haskell/blob/master/temas/Tema-08.ipynb][Tema 8: Razonamiento sobre programas]].
 
 Sus versiones interactivas se encuentran [[https://mybinder.org/v2/gh/jaalonso/Temas_interactivos_de_PF_con_Haskell/master?urlpath=lab/tree/temas/Indice.ipynb][aquí]].
 
