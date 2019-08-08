@@ -13,6 +13,7 @@ Los temas publicados hasta ahora son
 + [[https://github.com/jaalonso/Temas_interactivos_de_PF_con_Haskell/blob/master/temas/Tema-09.ipynb][Tema 9: Declaraciones de tipos y clases]].
 + [[https://github.com/jaalonso/Temas_interactivos_de_PF_con_Haskell/blob/master/temas/Tema-10.ipynb][Tema 10: Evaluación perezosa]].
 + [[https://github.com/jaalonso/Temas_interactivos_de_PF_con_Haskell/blob/master/temas/Tema-11.ipynb][Tema 11: Aplicaciones de la programación funcional]].
++ [[https://github.com/jaalonso/Temas_interactivos_de_PF_con_Haskell/blob/master/temas/Tema-12.ipynb][Tema 12: Analizadores funcionales]].
 
 Sus versiones interactivas se encuentran [[https://mybinder.org/v2/gh/jaalonso/Temas_interactivos_de_PF_con_Haskell/master?urlpath=lab/tree/temas/Indice.ipynb][aquí]].
 
