@@ -18,6 +18,7 @@ Los temas publicados hasta ahora son
   + [[https://github.com/jaalonso/Temas_interactivos_de_PF_con_Haskell/blob/master/temas/Tema-13.ipynb][Tema 13: Programas interactivos]].
 + Algorítmica con Haskell
   + [[https://github.com/jaalonso/Temas_interactivos_de_PF_con_Haskell/blob/master/temas/Tema-14.ipynb][Tema 14: El TAD de las pilas]].
+  + [[https://github.com/jaalonso/Temas_interactivos_de_PF_con_Haskell/blob/master/temas/Tema-15.ipynb][Tema 15: El TAD de las colas]].
 
 Sus versiones interactivas se encuentran [[https://mybinder.org/v2/gh/jaalonso/Temas_interactivos_de_PF_con_Haskell/master?urlpath=lab/tree/temas/Indice.ipynb][aquí]].
 
