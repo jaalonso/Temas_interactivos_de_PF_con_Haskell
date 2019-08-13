@@ -20,6 +20,7 @@ Los temas publicados hasta ahora son
   + [[https://github.com/jaalonso/Temas_interactivos_de_PF_con_Haskell/blob/master/temas/Tema-14.ipynb][Tema 14: El TAD de las pilas]].
   + [[https://github.com/jaalonso/Temas_interactivos_de_PF_con_Haskell/blob/master/temas/Tema-15.ipynb][Tema 15: El TAD de las colas]].
   + [[https://github.com/jaalonso/Temas_interactivos_de_PF_con_Haskell/blob/master/temas/Tema-16.ipynb][Tema 16: El TAD de las colas de prioridad]].
+  + [[https://github.com/jaalonso/Temas_interactivos_de_PF_con_Haskell/blob/master/temas/Tema-17.ipynb][Tema 17: El TAD de los conjuntos]].
 
 Sus versiones interactivas se encuentran [[https://mybinder.org/v2/gh/jaalonso/Temas_interactivos_de_PF_con_Haskell/master?urlpath=lab/tree/temas/Indice.ipynb][aquí]].
 
