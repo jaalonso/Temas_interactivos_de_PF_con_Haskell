@@ -24,6 +24,7 @@ Los temas publicados hasta ahora son
   + [[https://github.com/jaalonso/Temas_interactivos_de_PF_con_Haskell/blob/master/temas/Tema-18.ipynb][Tema 18: El TAD de las tablas]].
   + [[https://github.com/jaalonso/Temas_interactivos_de_PF_con_Haskell/blob/master/temas/Tema-19.ipynb][Tema 19: El TAD de las árboles binarios de búsqueda]].
   + [[https://github.com/jaalonso/Temas_interactivos_de_PF_con_Haskell/blob/master/temas/Tema-20.ipynb][Tema 20: El TAD de los montículos]].
+  + [[https://github.com/jaalonso/Temas_interactivos_de_PF_con_Haskell/blob/master/temas/Tema-21.ipynb][Tema 21: El TAD de los polinomios]].
 
 Sus versiones interactivas se encuentran [[https://mybinder.org/v2/gh/jaalonso/Temas_interactivos_de_PF_con_Haskell/master?urlpath=lab/tree/temas/Indice.ipynb][aquí]].
 
