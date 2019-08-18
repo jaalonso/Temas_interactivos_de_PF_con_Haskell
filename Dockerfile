@@ -1,10 +1,10 @@
 # Instrucciones:
 # + Para crear la imagen 
-#      docker build -t jaalonso/temas-de-pf-con-haskell:v1 .
+#      docker build -t jaalonso/temas-de-pf-con-haskell:v2 .
 # + Para ejecutarla
-#      docker run --rm -p 8888:8888 -v $PWD/temas:/home/jovyan/pwd --name temas-de-pf-con-haskell jaalonso/temas-de-pf-con-haskell:v1
+#      docker run --rm -p 8888:8888 -v $PWD/temas:/home/jovyan/pwd --name temas-de-pf-con-haskell jaalonso/temas-de-pf-con-haskell:v2
 
-FROM jaalonso/ihaskell-i1m:v1
+FROM jaalonso/ihaskell-i1m:v2
 
 USER root
 
