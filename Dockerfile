@@ -9,7 +9,7 @@ FROM jaalonso/ihaskell-i1m:v2
 USER root
 
 RUN mkdir /home/$NB_USER/temas
-COPY temas/* /home/$NB_USER/temas/
+COPY temas/ /home/$NB_USER/temas/
 RUN chown --recursive $NB_UID:users /home/$NB_USER/temas
 
 USER $NB_UID
