@@ -34,6 +34,7 @@ Los temas publicados hasta ahora son
   + [[https://github.com/jaalonso/Temas_interactivos_de_PF_con_Haskell/blob/master/temas/Tema-27.ipynb][Tema 27: Los diccionarios en Haskell (Data.Map)]].
   + [[https://github.com/jaalonso/Temas_interactivos_de_PF_con_Haskell/blob/master/temas/Tema-28.ipynb][Tema 28: Introducción a la programación imperativa con Python]].
   + [[https://github.com/jaalonso/Temas_interactivos_de_PF_con_Haskell/blob/master/temas/Tema-29.ipynb][Tema 29: Extensiones sintácticas de Haskell]].
+  + [[https://github.com/jaalonso/Temas_interactivos_de_PF_con_Haskell/blob/master/temas/Tema-30.ipynb][Tema 30: Monoides, functores, aplicativos y plegables]].
 
 Sus versiones interactivas se encuentran [[https://mybinder.org/v2/gh/jaalonso/Temas_interactivos_de_PF_con_Haskell/master?urlpath=lab/tree/temas/Indice.ipynb][aquí]].
 
