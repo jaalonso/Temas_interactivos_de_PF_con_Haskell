@@ -1,7 +1,7 @@
 Este repositorio contiene una versión de los temas de programación funcional con
 Haskell de la asignatura de [[https://www.cs.us.es/~jalonso/cursos/i1m/temas.php][I1M]] (/Informática de 1º del Grado en Matemáticas/ de
 la Universidad de Sevilla).
-
+ 
 Los temas publicados hasta ahora son 
 + Programación funcional con Haskell
   + [[https://github.com/jaalonso/Temas_interactivos_de_PF_con_Haskell/blob/master/temas/Tema-01.ipynb][Tema 1: Introducción a la programación funcional]].
