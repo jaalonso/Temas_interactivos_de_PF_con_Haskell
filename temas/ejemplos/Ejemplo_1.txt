@@ -1,3 +1,0 @@
-Este fichero tiene tres lineas
-esta es la segunda y
-esta es la tercera.
